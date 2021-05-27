@@ -31,6 +31,9 @@ body {
 
 .calculator .screen-container input {
     width: 100%;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
 }
 
 .calculator .screen-container input {
