@@ -13,7 +13,7 @@ let arithmetic_btns = document.querySelectorAll(".arithmetic-btn");
 
 //  HERE, WE LOOP THROUGH THE numbers_btns LIST TO GET ACCESS TO EACH INDIVIDUAL number_btn
 numbers_btns.forEach(function(btn) {
-    //  
+    //      
     btn.addEventListener("click", function() {
         number = btn.innerText;
 
